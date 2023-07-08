@@ -20,7 +20,7 @@ const MultimediaContainer = ({ mediaList }) => {
             {media.type === "image" ? (
               <img
                 src={media.src}
-                alt="Image"
+                alt="we have some nft based design"
                 className="w-full h-full object-cover"
               />
             ) : (
